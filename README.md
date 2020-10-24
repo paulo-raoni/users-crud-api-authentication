@@ -3,7 +3,7 @@ Project in NodeJS and MongoDB (mongodb-memory-server) to represent a users CRUD 
 
 ### To call the API methods use localhost:3001 with the verb (GET, POST, PUT, DELETE)
 
-### The body for the POST method is 
+### Body example for the POST method is 
 {
   "login": "paulo-raoni",
   "password": "abc123@",
